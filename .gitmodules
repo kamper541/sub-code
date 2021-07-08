@@ -1,3 +1,3 @@
-[submodule "sub-code"]
-	path = sub-code
-	url = https://github.com/kamper541/sub-code.git
+[submodule "main-code"]
+	path = main-code
+	url = https://github.com/kamper541/main-code.git
